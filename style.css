@@ -1,0 +1,12 @@
+#countries{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(48, 17, 223);
+    font-size: 50px;
+    
+}
+#backButton{
+    position: absolute;
+    top: 1170px;
+    left: 900px;
+}
